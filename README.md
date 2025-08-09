@@ -59,15 +59,6 @@ Pipeline stages:
 
 ---
 
-## 📂 Repository Structure
-```
-Simple-RISC-Pipelined-Processor/
-├── src/
-├── testbench/
-├── images/
-└── README.md
-```
-
 ---
 
 ## 🚀 How to Run
