@@ -54,7 +54,8 @@ Pipeline stages:
 ---
 
 ## 📷 Images
-![Processor Block Diagram](images/pipeline_risc_processor.jpg)
+
+![WhatsApp Image 2025-08-09 at 17 48 41_39520b01](https://github.com/user-attachments/assets/d5a4600d-8930-46d3-a441-969e12acb61e)
 
 ---
 
